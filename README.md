@@ -29,7 +29,7 @@ Chaotic dynamics, inspired by chaos theory, introduce unpredictability and non-l
    - Apply the decryption algorithm to retrieve the original image.
 
 3. **Integration with Chaotic Systems**:
-   - Customize the encryption process by selecting different chaotic systems (e.g., Lorenz system, Logistic map) for generating encryption keys.
+   - Customize the encryption process by selecting different chaotic systems (e.g., Logistic map) for generating encryption keys.
    - Experiment with various parameters of chaotic systems to fine-tune the encryption strength and complexity.
 
 ## Contributing
