@@ -14,7 +14,7 @@ Chaotic dynamics, inspired by chaos theory, introduce unpredictability and non-l
 
 - Image encryption using Central Dogma infused with chaotic dynamics
 - Decryption of encrypted images using the corresponding decryption key
-- Implementation of chaotic systems such as Lorenz or Logistic map for generating encryption keys
+- Implementation of chaotic systems such as Logistic map for generating encryption keys
 - Support for various image formats (e.g., JPEG, PNG, BMP)
 
 ## Usage
