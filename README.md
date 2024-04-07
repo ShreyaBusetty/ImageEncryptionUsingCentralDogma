@@ -40,7 +40,7 @@ Contributions to enhance the security, efficiency, or usability of the image enc
 
 - The implementation is inspired by the principles of Central Dogma in molecular biology and chaotic dynamics in mathematics.
 - Special thanks to contributors and researchers in the fields of cryptography, chaos theory, and image processing for their valuable insights and advancements.
-
+Example:
 <img width="372" alt="image" src="https://github.com/ShreyaBusetty/ImageEncryptionUsingCentralDogma/assets/134276174/876d8f86-f249-4104-b447-ef554ffa05b5">
 <img width="292" alt="image" src="https://github.com/ShreyaBusetty/ImageEncryptionUsingCentralDogma/assets/134276174/1d6e4fd6-1707-4a0b-8ff7-797801172a14">
 
